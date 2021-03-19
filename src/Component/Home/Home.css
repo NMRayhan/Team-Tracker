@@ -1,0 +1,11 @@
+.homeBanner{
+    background-image: url('../../stadium.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: cover;
+    background-color: rgb(39, 41, 44);
+}
+.AllTeam-container{
+    background-color: rgb(39, 41, 44);
+}

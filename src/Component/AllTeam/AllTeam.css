@@ -1,0 +1,18 @@
+.Team-card{
+    /* width: 250px;
+    height: 250px;   */
+    background-color: aliceblue;  
+    border-radius: 1.5%;
+}
+.Team-logo img{
+    width: 80%;
+}
+.Explore-btn{
+    background-color: rgb(0, 26, 255);
+    outline: none;
+    border: none;
+    width: 100px;
+    color: white;
+    border-radius: 2px;
+    height: 35px;
+}
