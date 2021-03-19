@@ -6,7 +6,6 @@ import { faMapMarkedAlt, faFlagCheckered, faFutbol, faMars, faBlog} from '@forta
 import male from '../../male.png'
 import female from '../../female.png'
 import { faTwitter, faYoutube } from '@fortawesome/free-brands-svg-icons';
-import { Link } from 'react-router-dom';
 
 const TeamDetails = () => {
 
